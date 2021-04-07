@@ -1,2 +1,4 @@
 # MNIST Learner
-An attempt to (re)write a linear deep learning model to detect handwritten digits using pytorch.
+An attempt to write a linear deep learning model to detect handwritten digits using fastai and pytorch.
+
+Starting from a simple approach to advanced using pytorch classes.
